@@ -1,4 +1,7 @@
 function greet(name){
-    console.log("hey " + name + "! we're learning git")
+    console.log("knock knock knock " + name)
+    console.log("knock knock knock " + name)
+    console.log("knock knock knock " + name)
+
 }
 greet("Puneet")
